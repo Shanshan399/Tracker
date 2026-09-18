@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "publishedAt": "2026-09-18T04:26:53.563Z",
+  "publishedAt": "2026-09-18T04:29:02.395Z",
   "records": [
     {
       "id": "r_1789705537921",
@@ -8,7 +8,7 @@
       "date": "2026-09-18",
       "type": "homework",
       "title": "翠本笔记及订正",
-      "updatedAt": "2026-09-18T04:25:37.921Z",
+      "updatedAt": "2026-09-18T04:29:00.149Z",
       "entries": [
         {
           "number": 1,
@@ -85,7 +85,7 @@
           "name": "李＊杰",
           "status": "done",
           "score": "B-",
-          "note": ""
+          "note": "无笔记"
         },
         {
           "number": 12,
@@ -239,7 +239,7 @@
           "name": "王＊浩",
           "status": "done",
           "score": "B-",
-          "note": ""
+          "note": "无笔记"
         },
         {
           "number": 34,
@@ -323,14 +323,14 @@
           "name": "叶＊远",
           "status": "done",
           "score": "B-",
-          "note": ""
+          "note": "无笔记"
         },
         {
           "number": 46,
           "name": "叶＊威",
           "status": "done",
           "score": "B-",
-          "note": ""
+          "note": "无笔记"
         },
         {
           "number": 47,
@@ -358,7 +358,7 @@
           "name": "张＊涵",
           "status": "done",
           "score": "B-",
-          "note": ""
+          "note": "无笔记"
         },
         {
           "number": 51,
