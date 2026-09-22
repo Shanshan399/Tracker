@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "publishedAt": "2026-09-22T02:56:18.940Z",
+  "publishedAt": "2026-09-22T02:56:43.862Z",
   "records": [
     {
       "id": "r_1790045777035",
@@ -382,12 +382,12 @@
       "date": "2026-09-21",
       "type": "homework",
       "title": "U3练习册",
-      "updatedAt": "2026-09-21T00:27:04.124Z",
+      "updatedAt": "2026-09-22T02:56:39.317Z",
       "entries": [
         {
           "number": 1,
           "name": "卜＊俊",
-          "status": "missing",
+          "status": "done",
           "score": "",
           "note": ""
         },
@@ -634,7 +634,7 @@
           "name": "贤＊天",
           "status": "missing",
           "score": "",
-          "note": ""
+          "note": "订正未完成"
         },
         {
           "number": 37,
