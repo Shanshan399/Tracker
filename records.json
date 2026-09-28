@@ -1,7 +1,402 @@
 {
   "version": 1,
-  "publishedAt": "2026-09-22T02:56:43.862Z",
+  "publishedAt": "2026-09-28T04:16:28.121Z",
   "records": [
+    {
+      "id": "r_1790568986676",
+      "classId": "g1c8",
+      "date": "2026-09-28",
+      "type": "homework",
+      "title": "中秋作业同步测评U2（听力要写，作文不用写）及E听说",
+      "updatedAt": "2026-09-28T04:16:26.676Z",
+      "entries": [
+        {
+          "number": 1,
+          "name": "卜＊俊",
+          "status": "missing",
+          "score": "",
+          "note": "E听说未注册"
+        },
+        {
+          "number": 2,
+          "name": "陈＊梃",
+          "status": "unset",
+          "score": "",
+          "note": "未订正"
+        },
+        {
+          "number": 3,
+          "name": "陈＊莹",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 4,
+          "name": "崔＊凡",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 5,
+          "name": "范＊昊",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 6,
+          "name": "高＊",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 7,
+          "name": "韩＊萱",
+          "status": "unset",
+          "score": "A+",
+          "note": ""
+        },
+        {
+          "number": 8,
+          "name": "洪＊冉",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 9,
+          "name": "胡＊茜",
+          "status": "missing",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 10,
+          "name": "黄＊瑜",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 11,
+          "name": "黄＊之",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 12,
+          "name": "黄＊煜",
+          "status": "unset",
+          "score": "B-",
+          "note": "未订正"
+        },
+        {
+          "number": 13,
+          "name": "解＊睿",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 14,
+          "name": "李＊如",
+          "status": "missing",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 15,
+          "name": "李＊霖",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 16,
+          "name": "李＊景",
+          "status": "missing",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 17,
+          "name": "李＊荣",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 18,
+          "name": "李＊菡",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 19,
+          "name": "廖＊彤",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 20,
+          "name": "林＊佳",
+          "status": "unset",
+          "score": "A+",
+          "note": ""
+        },
+        {
+          "number": 21,
+          "name": "林＊彤",
+          "status": "unset",
+          "score": "A+",
+          "note": ""
+        },
+        {
+          "number": 22,
+          "name": "刘＊荣",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 23,
+          "name": "刘＊妙",
+          "status": "missing",
+          "score": "",
+          "note": "E听说未完成"
+        },
+        {
+          "number": 24,
+          "name": "刘＊睿",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 25,
+          "name": "刘＊凡",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 26,
+          "name": "罗＊雨",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 27,
+          "name": "皮＊君",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 28,
+          "name": "施＊",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 29,
+          "name": "王＊琪",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 30,
+          "name": "王＊菡",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 31,
+          "name": "王＊宁",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 32,
+          "name": "魏＊欣",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 33,
+          "name": "邬＊迪",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 34,
+          "name": "吴＊洋",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 35,
+          "name": "吴＊翔",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 36,
+          "name": "贤＊天",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 37,
+          "name": "谢＊馨",
+          "status": "unset",
+          "score": "A+",
+          "note": ""
+        },
+        {
+          "number": 38,
+          "name": "谢＊",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 39,
+          "name": "熊＊宇",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 40,
+          "name": "许＊敏",
+          "status": "unset",
+          "score": "A+",
+          "note": ""
+        },
+        {
+          "number": 41,
+          "name": "杨＊翰",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 42,
+          "name": "杨＊",
+          "status": "missing",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 43,
+          "name": "张＊翔",
+          "status": "unset",
+          "score": "",
+          "note": "听力未做"
+        },
+        {
+          "number": 44,
+          "name": "张＊",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 45,
+          "name": "张＊霖",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 46,
+          "name": "张＊昊",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 47,
+          "name": "张＊昆",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 48,
+          "name": "张＊情",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 49,
+          "name": "张＊睿",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 50,
+          "name": "张＊昕",
+          "status": "unset",
+          "score": "A+",
+          "note": ""
+        },
+        {
+          "number": 51,
+          "name": "赵＊＊轩",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 52,
+          "name": "周＊奇",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 53,
+          "name": "朱＊安",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 54,
+          "name": "朱＊霖",
+          "status": "unset",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 55,
+          "name": "邹＊奕",
+          "status": "unset",
+          "score": "B-",
+          "note": "未订正"
+        }
+      ]
+    },
     {
       "id": "r_1790045777035",
       "classId": "g2c6",
