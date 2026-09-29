@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "publishedAt": "2026-09-29T00:42:10.789Z",
+  "publishedAt": "2026-09-29T01:09:44.680Z",
   "records": [
     {
       "id": "r_1790642528870",
@@ -8,7 +8,7 @@
       "date": "2026-09-29",
       "type": "homework",
       "title": "U3学案",
-      "updatedAt": "2026-09-29T00:42:08.870Z",
+      "updatedAt": "2026-09-29T01:09:43.300Z",
       "entries": [
         {
           "number": 1,
@@ -21,7 +21,7 @@
           "number": 2,
           "name": "陈＊梃",
           "status": "unset",
-          "score": "",
+          "score": "B-",
           "note": ""
         },
         {
@@ -70,7 +70,7 @@
           "number": 9,
           "name": "胡＊茜",
           "status": "unset",
-          "score": "",
+          "score": "B-",
           "note": ""
         },
         {
@@ -251,15 +251,15 @@
         {
           "number": 35,
           "name": "吴＊翔",
-          "status": "unset",
+          "status": "makeup",
           "score": "",
-          "note": ""
+          "note": "未订正"
         },
         {
           "number": 36,
           "name": "贤＊天",
           "status": "unset",
-          "score": "",
+          "score": "B-",
           "note": ""
         },
         {
@@ -293,7 +293,7 @@
         {
           "number": 41,
           "name": "杨＊翰",
-          "status": "unset",
+          "status": "makeup",
           "score": "",
           "note": ""
         },
@@ -307,9 +307,9 @@
         {
           "number": 43,
           "name": "张＊翔",
-          "status": "unset",
+          "status": "makeup",
           "score": "",
-          "note": ""
+          "note": "未订正"
         },
         {
           "number": 44,
@@ -336,7 +336,7 @@
           "number": 47,
           "name": "张＊昆",
           "status": "unset",
-          "score": "",
+          "score": "B-",
           "note": ""
         },
         {
