@@ -1,7 +1,381 @@
 {
   "version": 1,
-  "publishedAt": "2026-10-19T00:58:01.435Z",
+  "publishedAt": "2026-10-20T01:04:45.252Z",
   "records": [
+    {
+      "id": "r_1792458283218",
+      "classId": "g2c6",
+      "date": "2026-10-20",
+      "type": "dictation",
+      "title": "素养导练听写",
+      "updatedAt": "2026-10-20T01:04:43.218Z",
+      "entries": [
+        {
+          "number": 1,
+          "name": "蔡＊文",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 2,
+          "name": "陈＊杰",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 3,
+          "name": "陈＊昕",
+          "status": "excellent",
+          "score": "100",
+          "note": ""
+        },
+        {
+          "number": 4,
+          "name": "戴＊峰",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 5,
+          "name": "邓＊麒",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 6,
+          "name": "董＊",
+          "status": "excellent",
+          "score": "100",
+          "note": ""
+        },
+        {
+          "number": 7,
+          "name": "胡＊漪",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 8,
+          "name": "江＊乐",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 9,
+          "name": "李＊",
+          "status": "fail",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 10,
+          "name": "李＊",
+          "status": "fail",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 11,
+          "name": "李＊杰",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 12,
+          "name": "李＊玥",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 13,
+          "name": "李＊轩",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 14,
+          "name": "李＊凝",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 15,
+          "name": "林＊毅",
+          "status": "fail",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 16,
+          "name": "林＊涵",
+          "status": "excellent",
+          "score": "100",
+          "note": ""
+        },
+        {
+          "number": 17,
+          "name": "林＊炀",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 18,
+          "name": "林＊",
+          "status": "fail",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 19,
+          "name": "林＊森",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 20,
+          "name": "刘＊睿",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 21,
+          "name": "罗＊旭",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 22,
+          "name": "罗＊彤",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 23,
+          "name": "马＊雅",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 24,
+          "name": "彭＊萌",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 25,
+          "name": "秦＊浩",
+          "status": "fail",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 26,
+          "name": "石＊键",
+          "status": "excellent",
+          "score": "100",
+          "note": ""
+        },
+        {
+          "number": 27,
+          "name": "宋＊润",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 28,
+          "name": "宋＊宇",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 29,
+          "name": "孙＊涵",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 30,
+          "name": "覃＊哲",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 31,
+          "name": "田＊绮",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 32,
+          "name": "王＊",
+          "status": "fail",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 33,
+          "name": "王＊浩",
+          "status": "fail",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 34,
+          "name": "王＊刚",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 35,
+          "name": "王＊媛",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 36,
+          "name": "王＊旭",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 37,
+          "name": "魏＊茜",
+          "status": "excellent",
+          "score": "100",
+          "note": ""
+        },
+        {
+          "number": 38,
+          "name": "文＊",
+          "status": "excellent",
+          "score": "100",
+          "note": ""
+        },
+        {
+          "number": 39,
+          "name": "肖＊阳",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 40,
+          "name": "肖＊婷",
+          "status": "fail",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 41,
+          "name": "徐＊宁",
+          "status": "fail",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 42,
+          "name": "许＊清",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 43,
+          "name": "杨＊之",
+          "status": "fail",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 44,
+          "name": "杨＊尧",
+          "status": "excellent",
+          "score": "100",
+          "note": ""
+        },
+        {
+          "number": 45,
+          "name": "叶＊远",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 46,
+          "name": "叶＊威",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 47,
+          "name": "易＊轩",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 48,
+          "name": "袁＊丰",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 49,
+          "name": "张＊源",
+          "status": "excellent",
+          "score": "100",
+          "note": ""
+        },
+        {
+          "number": 50,
+          "name": "张＊涵",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 51,
+          "name": "周＊佩",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        },
+        {
+          "number": 52,
+          "name": "庄＊慧",
+          "status": "pass",
+          "score": "",
+          "note": ""
+        }
+      ]
+    },
     {
       "id": "r_1792371474803",
       "classId": "g2c6",
